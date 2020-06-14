@@ -1,2 +1,2 @@
-# Leetcode_solutions
-Warning the file are under construction.
+# Leetcode Solutions
+This repository is the collection of solutions to the problems which I had solved on leetcode.
